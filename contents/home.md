@@ -1,17 +1,25 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+齐鲁工业大学（山东省科学院）电子电气与控制学部常务副主任（正处级），信息与自动化学院院长，二级教授、博士生导师
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: yanzg[at]sina.com 
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2005年7月毕业于东北师范大学电气工程及其自动化级专业获工学学士学位\
+B2008年7月毕业于山东轻工业学院（现齐鲁工业大学）检测技术与自动化装置专业获工学硕士学位\
+
+2011年7月毕业于天津大学控制理论与控制工程专业获工学博士学位\
+
+2015年9月-2016年8月  韩国岭南大学  博士后\
+
+2016年12月-2017年4月  加拿大Lakehead University 博士后\
+
+2017年11月-2018年3月  台湾清华大学 博士后\
+
+2016年11月-2022年6月  山东大学   博士后
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+随机控制；强化学习；机器人控制；人工智能技术
 

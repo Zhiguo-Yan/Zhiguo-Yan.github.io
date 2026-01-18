@@ -1,12 +1,11 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- “复杂结构系统的有限时间稳定性与优化控制”，山东省自然科学二等奖，位次1，2021年，山东省人民政府颁发
+-  “有机废弃物发酵和可燃气体输送发电监控关键技术研究”，山东省科技进步二等奖，位次8/10，2014年，山东省人民政府颁发
+- “随机与Markov跳变系统稳定性分析与控制”，山东省高等学校科学技术奖三等奖，山东省教育厅，2018，位次 1/1
+- “复杂结构随机系统的定量稳定性与有限时间优化控制”，山东省自动化学会自然科学一等奖，位次1/2，2021年
+-  山东省教学成果一等奖，位次5，2021年
+- 山东省自动化学会教学成果一等奖，位次1，2020年
+- 山东省自动化学会教学成果二等奖，位次5，2020年
+- 山东省研究生优秀创新成果奖三等奖，指导教师，2018年
+- 山东省优秀硕士论文，指导教师，2019年
+- 齐鲁工业大学研究生教学成果一等奖，位次1，2021年
